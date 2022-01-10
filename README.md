@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ram24prasath
 - 👀 I’m interested in working as software engineer.
-- 🌱 I’m currently learning java and object oriented programming.
+- 🌱 I’m currently learning python and object oriented programming.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 Reach me on ramprasath246@gmail.com
 
