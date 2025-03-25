@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ram24prasath
-- 👀 I’m interested in working as software engineer.
+- 👀 I’m interested in working as Cyber Security Analyst
 - 🌱 I’m currently learning python and object oriented programming.
-- 💞️ I’m looking to collaborate on software development.
+- 💞️ I’m looking to collaborate on software development, penetration testing, vulnerability assesment.
 - 📫 Reach me on ramprasath246@gmail.com
 
 <!---
